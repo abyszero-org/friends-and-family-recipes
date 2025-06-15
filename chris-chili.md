@@ -1,4 +1,4 @@
-# Chris' Vat of Chili
+# Chili
 
 ## Tools
   * Large pressure cooker or crockpot
